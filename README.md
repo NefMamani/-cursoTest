@@ -1,2 +1,2 @@
-# -cursoTest
+# cursoTest
 Curso Test Aprendiendo
